@@ -28,6 +28,6 @@
 
 ### 📫 How to Reach Me
 - GitHub: https://github.com/AatekaMemon  
-- LinkedIn: https://github.com/aatekamemon/AatekaMemon  
+- LinkedIn: https://www.linkedin.com/in/aateka-memon-aababb250  
 
 ✨ Always learning, building, and improving.
