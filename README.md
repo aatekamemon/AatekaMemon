@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm Aateka Memon
 
-<!--
-**aatekamemon/AatekaMemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student passionate about technology and continuous learning  
+💻 Interested in Web Development and Data Science  
+🚀 I enjoy building real-world, full-stack applications  
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- **HireHub** — an online hiring and recruitment platform built using the **MEAN stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Recent Projects
+- **Hotel Management System** — a full-stack application developed using the **MERN stack**
+- **Resin Products E-commerce Website** — an e-commerce web application built using **ASP.NET**
+
+### 🌱 Currently Learning
+- Advanced Full-Stack Development  
+- Scalable backend architectures  
+- Practical machine learning concepts  
+
+### 🛠️ Technical Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Angular  
+- **Backend:** Node.js, Express, **ASP.NET**  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code  
+
+### 👯 Looking to Collaborate On
+- Full-stack student projects  
+- Beginner-friendly open-source contributions  
+
+### 📫 How to Reach Me
+- GitHub: https://github.com/AatekaMemon  
+- LinkedIn: https://github.com/aatekamemon/AatekaMemon  
+
+✨ Always learning, building, and improving.
