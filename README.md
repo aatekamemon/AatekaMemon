@@ -1,33 +1,74 @@
-## Hi there 👋 I'm Aateka Memon
+# Hi there, I'm Aateka Memon 👋
 
-🎓 Computer Science student passionate about technology and continuous learning  
-💻 Interested in Web Development and Data Science  
-🚀 I enjoy building real-world, full-stack applications  
+🎓 Master's student in Information Technology (Business Intelligence & Analytics) with a passion for software development and continuous learning.
 
-### 🔭 Currently Working On
-- **HireHub** — an online hiring and recruitment platform built using the **MEAN stack**
+💻 I enjoy building full-stack applications, exploring new technologies, and solving real-world problems through code.
 
-### 🧩 Recent Projects
-- **Hotel Management System** — a full-stack application developed using the **MERN stack**
-- **Resin Products E-commerce Website** — an e-commerce web application built using **ASP.NET**
+## 🚀 Currently
+- Flutter Developer Intern
+- Learning Flutter & Dart
+- Expanding my knowledge of modern mobile and full-stack development
 
-### 🌱 Currently Learning
-- Advanced Full-Stack Development  
-- Scalable backend architectures  
-- Practical machine learning concepts  
+## 💼 Projects
+### 🏢 HireHub
+A role-based hiring and recruitment platform built using the **MEAN Stack**.
 
-### 🛠️ Technical Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Angular  
-- **Backend:** Node.js, Express, **ASP.NET**  
-- **Databases:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, VS Code  
+### 🏨 Havenza – Hotel Management System
+A full-stack hotel booking and management application built using the **MERN Stack**.
 
-### 👯 Looking to Collaborate On
-- Full-stack student projects  
-- Beginner-friendly open-source contributions  
+### 🛍️ Resin Products E-commerce Website
+An e-commerce web application developed using **ASP.NET**.
 
-### 📫 How to Reach Me
-- GitHub: https://github.com/AatekaMemon  
-- LinkedIn: https://www.linkedin.com/in/aateka-memon-aababb250  
+## 🌱 Currently Learning
+- Flutter & Dart
+- Mobile App Development
+- Advanced Full-Stack Development
+- Scalable Backend Architectures
+- Practical Machine Learning
 
-✨ Always learning, building, and improving.
+## 🛠️ Tech Stack
+
+**Languages**
+- C
+- C++
+- Java
+- JavaScript
+- Dart
+- SQL
+
+**Frontend**
+- HTML
+- CSS
+- React
+- Angular
+- Flutter
+
+**Backend**
+- Node.js
+- Express.js
+- ASP.NET
+
+**Databases**
+- MongoDB
+- MySQL
+- SQL Server
+
+**Tools & Technologies**
+- GitHub
+- VS Code
+- Android Studio
+- Postman
+
+## 🤝 Open to Collaborate
+- Flutter projects
+- Full-stack web applications
+- Open-source contributions
+- Student developer projects
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/AatekaMemon
+- LinkedIn: https://www.linkedin.com/in/aatekamemon
+
+---
+⭐ I believe in learning by building. Every project helps me grow as a developer, and I'm always excited to take on new challenges.
