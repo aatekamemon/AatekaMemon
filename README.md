@@ -1,6 +1,6 @@
 # Hi there, I'm Aateka Memon 👋
 
-🎓 Master's student in Information Technology (Business Intelligence & Analytics) with a passion for software development and continuous learning.
+🎓 Master's student in Information Technology with a passion for software development and continuous learning.
 
 💻 I enjoy building full-stack applications, exploring new technologies, and solving real-world problems through code.
 
