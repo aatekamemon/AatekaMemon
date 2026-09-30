@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,25,38&height=220&section=header&text=Aateka%20Memon&fontSize=44&fontAlignY=36&desc=Flutter%20Developer%20%7C%20Full%20Stack%20%26%20Agentic%20AI%20Builder&descAlignY=58&descAlign=50" width="100%"/>
+# Hi there, I'm Aateka Memon 👋
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+App+Developer;Full+Stack+Engineer+(Next.js+%7C+NestJS);Building+Agentic+AI+%26+RAG+Systems;MSc+IT+Student+%40+LJ+University;55%2B+LeetCode+Problems+Solved+(82%25%2B+Acceptance)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=580&lines=Flutter+%26+Dart+App+Developer;Full+Stack+Engineer+(Next.js+%7C+NestJS);Building+Agentic+AI+%26+RAG+Systems;MSc+IT+Student+%40+LJ+University;55%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social / Contact Badges -->
 <a href="mailto:memonaateka07@gmail.com">
   <img src="https://img.shields.io/badge/Email-memonaateka07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
