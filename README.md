@@ -70,6 +70,7 @@ I am a software engineer focused on building robust, high-performance mobile and
     <td align="left">
       <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -103,7 +104,7 @@ I am a software engineer focused on building robust, high-performance mobile and
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Open-Source Projects
 
 #### 📄 [DocuDash AI](https://github.com/aatekamemon/docudash-ai) · [Live Demo ↗](https://docudash-ai.vercel.app)
 > **Full-Stack Multi-Document AI Assistant with Hybrid RAG & Semantic Search**
@@ -111,14 +112,16 @@ I am a software engineer focused on building robust, high-performance mobile and
 - Local 384-dimensional vector embeddings generated client-side via **Transformers.js (`all-MiniLM-L6-v2`)** to eliminate API embedding latency.
 - Hybrid multi-model routing between **Google Gemini 2.0 Flash** and **Groq (Llama-3-70b)** for high-speed streaming Q&A, synthesis, and PDF chat.
 
+#### 💼 [HireHub — Recruitment Platform](https://github.com/aatekamemon/Hirehub---Online-Hiring-and-Recruitment-Platform)
+> **Full-Stack Role-Based Online Hiring & Applicant Tracking System (ATS)**
+- Built a comprehensive **MEAN-stack** platform connecting job seekers, corporate recruiters, and administrators.
+- Features multi-parameter job search, resume upload/parsing, dynamic application tracking pipelines (`Applied` ➔ `Shortlisted` ➔ `Interview` ➔ `Offer`), and recruiter analytics.
+- Secured end-to-end with **JWT authentication** and strict role-based access control.
+
 #### 🏨 [Havenza – Hotel Booking Platform](https://github.com/aatekamemon/Havenza-Hotel-booking-platform)
 > **Scalable Multi-Vendor Hotel Management & Reservation System**
 - Full-stack MERN application with role-based access control for Guests, Property Owners, and Admins.
 - Implemented real-time room availability search, dynamic pricing, and secure **Stripe payment gateway** integration.
-
-#### 💼 HireHub Recruitment Platform
-> **Role-Based Hiring & Candidate Tracking Platform**
-- MEAN-stack platform streamlining talent acquisition with automated resume indexing, application status pipelines, and recruiter analytics.
 
 ---
 
