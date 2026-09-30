@@ -111,12 +111,6 @@ I am a software engineer focused on building robust, high-performance mobile and
 - Local 384-dimensional vector embeddings generated client-side via **Transformers.js (`all-MiniLM-L6-v2`)** to eliminate API embedding latency.
 - Hybrid multi-model routing between **Google Gemini 2.0 Flash** and **Groq (Llama-3-70b)** for high-speed streaming Q&A, synthesis, and PDF chat.
 
-#### 🚛 Fleet Management & Driver App
-> **Enterprise Real-Time Driver Logistics & Fleet Dispatching System**
-- Developed a cross-platform mobile driver application in **Flutter** featuring real-time trip execution, GPS location streaming, and status lifecycle state management.
-- Built a modular RESTful backend in **NestJS** with **Prisma ORM** and **PostgreSQL**, managing vehicles, driver authentication, and dispatch logs.
-- Engineered offline-first caching for mission-critical driver trips, automatically reconciling status upon network reconnection.
-
 #### 🏨 [Havenza – Hotel Booking Platform](https://github.com/aatekamemon/Havenza-Hotel-booking-platform)
 > **Scalable Multi-Vendor Hotel Management & Reservation System**
 - Full-stack MERN application with role-based access control for Guests, Property Owners, and Admins.
